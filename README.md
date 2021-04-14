@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💻  A Software Engineer who loves and works with JavaScript technologies, AWS Certified.
+- 💥 A Software Engineer who loves and works with JavaScript technologies, AWS Certified.
 - 💜  I love programming because it helped me develop a growth mindest and opened my mind to a limitless world of possibilities.
 - 🎨  I do UI/UX designs with figma. I admire the beautiful creations coming from deisgners' mind. 
 - 🌱  I'm currently learning about Data Structures, Algorithms and System Design.
-- ✍🏾  I create tech content on Full-stack Web developement on [my blog](https://www.agirl.codes/).
+- ✍🏾  I create tech content on Full-stack Web developement on [agirl.codes](https://www.agirl.codes/).
 - 😌  When I'm not coding, I love learning about skincare, listening to music and food 😅.
-- For more info on my tech career, view my [resume](https://drive.google.com/file/d/1EBCaydsUsOXWlV8U16h1Y2EBnrzeN5Sa/view?usp=sharing)
+- 💻  For more info on my tech career, view my [resume](https://drive.google.com/file/d/1EBCaydsUsOXWlV8U16h1Y2EBnrzeN5Sa/view?usp=sharing)
 
 ***
 
