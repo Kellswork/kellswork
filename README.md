@@ -49,8 +49,8 @@ Here are some ideas to get you started:
 ### GitHub Stats
 <p align="left">
 <a href="https://github.com/kellswork">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kellswork&show_icons=true&theme=midnight-purple"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellswork&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kellswork&show_icons=true&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellswork&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
 
