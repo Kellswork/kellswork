@@ -59,4 +59,7 @@ Here are some ideas to get you started:
 #### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelechi-ogbonna/)
 [![Gmail](https://img.shields.io/badge/-KELLOGBONNA@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kellogbonna@gmail.com)
+[![kellogbonna.com](https://img.shields.io/badge/-KELLOGBONNA.COM-000000?style=for-the-badge&logo=gatsby&logoColor=white)](https://www.kellogbonna.com/)
+
+
 
