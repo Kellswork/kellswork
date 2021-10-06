@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱  I'm currently learning about Data Structures, Algorithms and System Design.
 - ✍🏾  I create content on Frontend Web development on [agirl.codes](https://www.agirl.codes/).
 - 😌  When I'm not coding, I love learning about skincare, listening to music and food 😅.
-- 💻  For more info on my tech career, view my [resume](https://drive.google.com/file/d/1EBCaydsUsOXWlV8U16h1Y2EBnrzeN5Sa/view?usp=sharing).
+- 💻  For more info on my tech career, view my [resume](https://docs.google.com/document/d/1XPboN-IooJcOyEKLIedaEiJNf1cdRuIKswtYzYczEfE/edit?usp=sharing).
 
 ***
 
