@@ -41,8 +41,7 @@ Here are some ideas to get you started:
 
 📓 **Latest Blog Articles**
 
-- [How to build forms with multiple input fields using React Hooks](https://www.agirl.codes/post/How-to-Build-Forms-with-multiple-input-fields-using-React-Hooks)
-- [How to check if an object is empty in JavaScript](https://www.agirl.codes/post/How-to-check-if-an-object-is-empty-in-JavaScript)
+- [The Complete Guide to Building React Forms with useState Hook](https://www.agirl.codes/complete-guide-build-react-forms-with-usestate-hook)
 
 ***
 
