@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 💜  I love programming because it helped me develop a growth mindset and opened my mind to a world of limitless possibilities.
 - 🎨  I do UI/UX designs with Figma. I admire the beautiful creations coming from the designers' mind.  
 - 🌱  I'm currently learning about Data Structures, Algorithms and System Design.
-- ✍🏾  I create content on Frontend Web development on [agirl.codes](https://www.agirl.codes/).
+- ✍🏾  I create content on Frontend Web development on [agirlcodes.dev](https://www.agirlcodes.dev/).
 - 😌  When I'm not coding, I love learning about skincare, listening to music and food 😅.
 - 💻  For more info on my tech career, view my [resume](https://docs.google.com/document/d/1_SOqzofaCN4o9Vgz-Ny2hKsmG4c7xJa_a3rZw4zZn7E/edit?usp=sharing).
 
