@@ -13,11 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💥  A Software Engineer who loves and works with JavaScript technologies and AWS Certified.
-- 💜  I love programming because it helped me develop a growth mindset and opened my mind to a world of limitless possibilities.
-- 🎨  I do UI/UX designs with Figma. I admire the beautiful creations coming from the designers' mind.  
-- 🌱  I'm currently learning about Data Structures, Algorithms and System Design.
-- ✍🏾  I create content on Frontend Web development on [agirlcodes.dev](https://www.agirlcodes.dev/).
+- 💥  A Software Engineer passionate about building user-friendly interfaces and applications. Also AWS Certified.
+- ✍🏾  I write articles on software development on [agirlcodes.dev](https://www.agirlcodes.dev/).
 - 😌  When I'm not coding, I listen to music and think about food 😅.
 
 ***
@@ -36,21 +33,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="npm" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="npm" width="50" height="50"/> 
 
-***
 
-📓 **Latest Blog Articles**
-
-- [The Complete Guide to Building React Forms with useState Hook](https://www.agirl.codes/complete-guide-build-react-forms-with-usestate-hook)
-
-***
-
-### GitHub Stats
-<p align="left">
-<a href="https://github.com/kellswork">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kellswork&show_icons=true&theme=midnight-purple"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellswork&layout=compact&langs_count=8&theme=dark"/>
-</a>
-</p>
 
 ***
 
